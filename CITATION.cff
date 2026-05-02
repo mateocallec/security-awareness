@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Callec"
+    given-names: "Matéo Florian"
+    email: "mateo@callec.net"
+    orcid: "https://orcid.org/0009-0000-8025-5350"
+title: "Security Awareness Platform"
+version: 1.0.0
+date-released: 2026-04-01
+url: "https://github.com/diveprotocol/opendive-client"
+repository-code: "https://github.com/diveprotocol/opendive-client"
+license: Austrian/French Patriot License v1.0
+keywords:
+  - security
+  - awareness
+  - platform
+  - training
+  - badusb
+  - malware
+  - ransomware
+abstract: >-
+  A BadUSB drop experiment that redirects victims to a
+  security awareness page and collects anonymous
+  questionnaire data to study human behaviour in
+  response to physical USB social engineering attacks.

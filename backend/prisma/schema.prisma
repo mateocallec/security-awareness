@@ -1,0 +1,33 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model BadUSB {
+  id             Int             @id @default(autoincrement())
+  sub            String          @unique @db.VarChar(8)
+  name           String
+  dropLocation   String?         @map("drop_location")
+  status         Int             @default(0)
+  questionnaires Questionnaire[]
+
+  @@map("badusb")
+}
+
+model Questionnaire {
+  id              Int     @id @default(autoincrement())
+  sub             String  @unique @db.VarChar(16)
+  badusbId        Int     @map("badusb_id")
+  email           String?
+  locationFound   String  @map("location_found")
+  insertionReason Int     @map("insertion_reason")
+  comfortRating   Int     @map("comfort_rating")
+  malicious       Boolean
+  badusb          BadUSB  @relation(fields: [badusbId], references: [id], onDelete: Cascade)
+
+  @@map("questionnaire")
+}
