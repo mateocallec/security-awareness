@@ -6,7 +6,7 @@ The goal of this project is to study human behaviour in response to physical USB
 
 ---
 
-> **Legal disclaimer** — Deploying USB drives and recording interactions without the explicit, informed consent of participants may be **illegal** depending on your local jurisdiction (e.g. computer fraud, unauthorised access, or privacy laws). This project was conducted under academic supervision with appropriate ethical oversight. **The author of this repository is not responsible for any misuse.** Always obtain written consent from your institution and, where required, from participants before running any similar experiment.
+> **Legal disclaimer** — Deploying USB drives and recording interactions without the explicit, informed consent of participants may be **illegal** depending on your local jurisdiction (e.g. computer fraud, unauthorised access, or privacy laws). This project was conducted under academic supervision with appropriate ethical oversight. **The authors of this repository are not responsible for any misuse.** Always obtain written consent from your institution and, where required, from participants before running any similar experiment.
 
 ---
 
@@ -129,6 +129,9 @@ security-awareness/
 
 See [LICENSE](LICENSE).
 
-## Author
+## Authors
 
 **Matéo Florian Callec** — [mateo@callec.net](mailto:mateo@callec.net)
+**Simon Jung**
+**Manuel Pramberger**
+**Jakob Wagner**
