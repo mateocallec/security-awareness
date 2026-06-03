@@ -5,12 +5,18 @@ authors:
     given-names: "Matéo Florian"
     email: "mateo@callec.net"
     orcid: "https://orcid.org/0009-0000-8025-5350"
+  - family-names: "Jung"
+    given-names: "Simon"
+  - family-names: "Pramberger"
+    given-names: "Manuel"
+  - family-names: "Wagner"
+    given-names: "Jakob"
 title: "Security Awareness Platform"
 version: 1.0.0
 date-released: 2026-04-01
-url: "https://github.com/diveprotocol/opendive-client"
-repository-code: "https://github.com/diveprotocol/opendive-client"
-license: Austrian/French Patriot License v1.0
+url: "https://github.com/mateocallec/security-awareness"
+repository-code: "https://github.com/mateocallec/security-awareness"
+license: "MIT"
 keywords:
   - security
   - awareness
