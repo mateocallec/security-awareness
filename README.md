@@ -1,5 +1,15 @@
 # Security Awareness
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](docker-compose.yml)
+[![NestJS](https://img.shields.io/badge/NestJS-10-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Prisma](https://img.shields.io/badge/Prisma-5-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![GHCR](https://img.shields.io/badge/GHCR-ghcr.io%2Fmateocallec%2Fsecurity--awareness-24292e?logo=github&logoColor=white)](https://github.com/mateocallec/security-awareness/pkgs/container/security-awareness)
+
 > Academic project for the **Human Aspects of Information Security** course at **FH Hagenberg** (University of Applied Sciences Upper Austria).
 
 The goal of this project is to study human behaviour in response to physical USB-based social engineering attacks. BadUSB devices are intentionally placed in a public or office environment. When someone plugs one in, their browser is redirected to an awareness page that explains what could have happened and invites them to fill in an anonymous questionnaire. The collected data is then analysed to better understand why people plug in unknown USB drives and how to improve security awareness training.
