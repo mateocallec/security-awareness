@@ -1,39 +1,10 @@
-Austrian/French Patriot License v1.0
+Copyright 2026 Matéo Florian Callec <mateo@callec.net>
+Copyright 2026 Simon Jung
+Copyright 2026 Manuel Pramberger
+Copyright 2026 Jakob Wagner
 
-Copyright (c) 2026 Matéo Florian Callec (mateo@callec.net)
-https://github.com/mateocallec/security-awareness
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-Permission. Subject to the terms and conditions below, the copyright holder(s) hereby grant any person obtaining a copy of this software and associated documentation files (the "Software") a worldwide, royalty-free, non-exclusive, perpetual license to use, reproduce, copy, modify, merge, publish, distribute, and sublicense the Software, including for commercial purposes, provided that all of the following conditions are met.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-Conditions. The permission granted above is expressly conditioned on all of the following:
-
-1. Compliance with Protected Interests. The Licensee shall not use the Software in any manner that is intended to, or which reasonably could be expected to, directly or intentionally harm, disrupt, undermine, or otherwise act against the national security, governmental institutions, critical infrastructure, armed forces, core diplomatic or core economic interests of the country or countries listed in the license (Austrian/French). Examples include, but are not limited to, unauthorized attacks, espionage, sabotage, or other hostile cyber operations directed at entities owned or operated by the listed countries. (See Section "Defined Prohibited Uses" below for clarification.)
-
-2. Copyleft for Derivative Works. Any derivative work, modification, or redistribution of the Software (in source or binary form) must be released, distributed, and licensed under the same Austrian/French Patriot License v1.0. Redistributions must include a copy of this license text and retain the copyright notice and attribution required by this License.
-
-3. Attribution. Any distribution, publication, public display, or commercial offering that uses the Software (including derivative works) must include clear credit to the original author(s) in a manner reasonably calculated to bring such credit to the attention of recipients (for example: in documentation, "About" screens, packaging, or Terms of Service). The copyright notice and a copy of this license must accompany any substantial portion of the Software.
-
-4. Inclusion in User Agreements. Where the Software is provided to end users (including as part of a hosted service, commercial product, or distribution), the Austrian/French Patriot License must be explicitly referenced in the product's Terms of Use, End-User License Agreement (EULA), or other legally binding agreement applicable to the end user, and those agreements must make clear that the license's restrictions (including the restrictions in Section 1) apply to the use of the Software.
-
-5. Preservation of Notices. Any redistribution in source form must retain the above copyright notice, this license, and the following header (or an equivalent notice) in each source file where reasonably practicable:
-This project is licensed under the Austrian/French Patriot License v1.0. A copy of the license is included with this software. More information and a license generator are available at https://patriotlicense.org.
-
-Defined Prohibited Uses (examples and clarification). For greater precision and to reduce ambiguity, the following list illustrates uses that are prohibited under Section 1 (this list is illustrative and not exhaustive):
-
-- Conducting unauthorized penetration tests, exploitation, or intrusions against systems owned, operated, or administered by one of the listed countries' government entities, critical infrastructure operators, or military organizations.
-- Employing the Software to develop or support cyber operations intended to degrade, deny, or exfiltrate information from specified countries' governmental, economic, or military targets.
-- Creating derivative tools or services that are marketed or deliberately deployed for the purpose of harming or undermining the national security or critical interests of the listed countries.
-
-If a particular action's legality or whether it falls within the prohibited uses is uncertain, the Licensee must obtain explicit written permission from the copyright holder(s) prior to undertaking that action.
-
-Commercial Use and Distribution. Commercial use, sale, or sublicensing of the Software is permitted under this License provided that all Conditions above are satisfied. Commercial redistributions must include this License, comply with the attribution requirement, and must not enable or facilitate prohibited uses against the listed countries.
-
-No Warranty; Limitation of Liability. THE SOFTWARE IS PROVIDED WITHOUT REPRESENTATION OR WARRANTY OF ANY KIND. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER(S) AND CONTRIBUTORS DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING (WITHOUT LIMITATION) ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER(S), CONTRIBUTORS, OR DISTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR GOODWILL, ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE, ITS USE OR PERFORMANCE, OR THIS LICENSE, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-Prohibition of Illegal Use. The Licensee shall not use the Software for any unlawful purpose. The Licensee is responsible for ensuring that its use of the Software complies with applicable local, national, and international laws, regulations, and export control requirements. Use of the Software in violation of law is expressly forbidden by this License, and the copyright holder(s) disclaim any responsibility or liability for unlawful uses by third parties.
-
-Enforcement and Remedies. Breach of any material term of this License, including the obligations in Sections 1–5 above, terminates the Licensee's rights under this License automatically, without prejudice to any other rights or remedies available to the copyright holder(s) at law or in equity.
-
-Severability. If any provision of this License is held to be unenforceable, invalid, or void under applicable law, that provision shall be severed and replaced, if possible, by a valid provision that most closely matches the intent of the original provision, and the remainder of the License shall remain in full force and effect.
-
-Governing Law. This License and any dispute arising under it shall be governed by the laws of France.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
