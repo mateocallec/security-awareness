@@ -132,6 +132,9 @@ See [LICENSE](LICENSE).
 ## Authors
 
 **Matéo Florian Callec** — [mateo@callec.net](mailto:mateo@callec.net)
+
 **Simon Jung**
+
 **Manuel Pramberger**
+
 **Jakob Wagner**
